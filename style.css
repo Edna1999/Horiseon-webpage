@@ -81,8 +81,7 @@ p {
 /*structure of the section containing the benefit class*/
 .benefits {
     margin-right: 20px;
-    border: 0 solid #2589bd;
-    border-bottom: 12px solid #2589bd;
+
     padding: 20px;
     clear: both;
     float: right;
