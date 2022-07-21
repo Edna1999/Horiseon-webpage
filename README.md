@@ -1,0 +1,1 @@
+Horiseon is a marketing agency. The files listed contain the code to their webpage which contains articles with tips on how to properly market yourself using social media and other things that come with that. 
