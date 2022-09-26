@@ -1,1 +1,5 @@
-Horiseon is a marketing agency. The files listed contain the code to their webpage which contains articles with tips on how to properly market yourself using social media and other things that come with that. 
+# Horiseon Marketing Agency
+
+The following code is an HTML file with semantic HTML elements and modified CSS styling for Horiseon Marketing Agency's webpage.
+
+![Screenshot of Horiseon Marketing Agency webpage](./assets/images/Screen%20Shot%202022-09-26%20at%2012.05.21%20PM.png)
